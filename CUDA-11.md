@@ -30,7 +30,7 @@ Once finished, you should see a summary like this:
 
 
 
-Do what the instructions given in the summary say and add the given directories to your `PATH` and `LD_LIBRARY_PATH`. For example by adding the following lines to your `.bashrc`, `.zshrc`, or whatever shell you are using:
+Do what the instructions given in the summary say and add the given directories to your `PATH` and `LD_LIBRARY_PATH`. For example by adding the following lines to your `.bashrc`:
 
     export PATH=/usr/local/cuda/bin:$PATH
     export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH
